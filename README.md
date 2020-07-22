@@ -9,7 +9,7 @@ const Martin = {
   nextToLearn: [Redux, TypeScript]
 }
 ```
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
 <!--
 **martincho111986/martincho111986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
