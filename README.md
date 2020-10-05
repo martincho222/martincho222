@@ -6,6 +6,7 @@ const Martin = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Express, MongoDB],
+  learning:[MeteorJS, Gatsby, StoryBook],
   nextToLearn: [Redux, TypeScript, MySQL]
 }
 ```
