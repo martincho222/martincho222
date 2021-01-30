@@ -1,5 +1,5 @@
 
-### Hi there, I am Martin! Jr Full Stack Developer from Argentina!!
+### Hi there, I am Martin! Full Stack Developer from Argentina!!
 
 ```javascript
 const Martin = {
