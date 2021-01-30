@@ -7,7 +7,7 @@ const Martin = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Express, MongoDB],
   learning:[MeteorJS, Gatsby, StoryBook],
-  nextToLearn: [Redux, TypeScript, MySQL]
+  nextToLearn: [Redux, TypeScript, MySQL, Python]
 }
 ```
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
