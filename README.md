@@ -10,7 +10,7 @@ const Martin = {
   nextToLearn: [Redux, TypeScript, MySQL, Python]
 }
 ```
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&show_icons=true&theme=tokyonight)(https://github.com/martincho111986/github-readme-stats)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincho111986&count_private=true)-->
 
 
