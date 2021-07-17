@@ -5,9 +5,9 @@
 const Martin = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Express, MongoDB],
-  learning:[MeteorJS, Gatsby, StoryBook],
-  nextToLearn: [Redux, TypeScript, MySQL, Python]
+  tools: [React, Node, Express, MongoDB, Context API],
+  learning:[Redux, TypeScript, StoryBook, NextJS, Gatsby],
+  nextToLearn: [MySQL, Python]
 }
 ```
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho111986&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
