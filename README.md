@@ -18,7 +18,7 @@ const Martin = {
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/martin-jerez-leal/" target="_blank"><img alt="Linkedin profile" title="Linkedin" src="assets/linkedin.svg" width="100" height="35" /></a>
-    <a href="mailto:martincho111986@gmail.com"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="100" height="35" /></a>
+    <a href="mailto:martincho111986@gmail.com" target="_blank"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="100" height="35" /></a>
     <a href="https://www.facebook.com/martin.jerezleal/" target="_blank"><img alt="facebook" src="assets/facebook.svg" title="facebook" width="100" height="40" /></a>
 </p>
 
