@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
 </div>
 
-<div align="center">
+<div>
 
 ```javascript
 const Martin = {
