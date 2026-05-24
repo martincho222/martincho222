@@ -1,5 +1,9 @@
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
+</div>
 
-### Hi there, I am Martin! Full Stack Developer from Argentina!!
+<div align="center">
 
 ```javascript
 const Martin = {
@@ -13,51 +17,80 @@ const Martin = {
     databases: ["MongoDB", "PostgreSQL"],
   },
   principles: ["SOLID", "Clean Code", "DRY", "KISS"],
-  learning: [
-    "Microservices",
-    "Event-Driven Architecture",
-    "MySQL"
-  ],
-  nextToLearn: ["Java", "Python"],
-  currentlyWorkingOn: "Mi próximo proyecto con NestJS + PostgreSQL 🚀",
+  learning: ["Microservices", "Event-Driven Architecture", "StoryBook", "Gatsby"],
+  nextToLearn: ["MySQL", "Python"],
+  currentlyWorkingOn: "NestJS + PostgreSQL 🚀",
+  openToWork: true,
   funFact: "Debugging es el arte de ser el detective en una película donde vos sos también el asesino 🕵️"
 }
 ```
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho222&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martincho111986&count_private=true)-->
 
+</div>
 
+---
 
-<br>
-<p align="center">
-    <a href="https://www.linkedin.com/in/martin-jerez-leal/" target="_blank"><img alt="Linkedin profile" title="Linkedin" src="assets/linkedin.svg" width="100" height="35" /></a>
-    <a href="mailto:martincho111986@gmail.com" target="_blank"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="100" height="35" /></a>
-    <a href="https://www.facebook.com/martin.jerezleal/" target="_blank"><img alt="facebook" src="assets/facebook.svg" title="facebook" width="100" height="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<!--
-**martincho111986/martincho111986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-333333?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-333333?style=flat-square)
 
-<a href="https://www.instagram.com/martin.jerez.leal/"><img alt="Instagram" src="assets/Instagram.svg" title="Instagram" width="100" height="55" /></a> 
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
--->
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=martincho222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincho222&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martincho222&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- 🏗️ **Microservices** — arquitecturas escalables y desacopladas
+- ⚡ **Event-Driven Architecture** — comunicación asíncrona entre servicios
+- 📖 **StoryBook** — documentación de componentes
+- 🚀 **Gatsby** — generación de sitios estáticos
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-jerez-leal/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martincho111986@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martincho222)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
+</div>
