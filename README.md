@@ -3,11 +3,24 @@
 
 ```javascript
 const Martin = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Express, MongoDB, Context API, NestJS],
-  learning:[Redux, TypeScript, StoryBook, NextJS, Gatsby, Micro Frontend],
-  nextToLearn: [MySQL, Python]
+  pronouns: ["he", "him"],
+  location: "🇦🇷 Tucumán, Argentina",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: {
+    frontend: ["React", "Redux", "Context API", "NextJS", "Micro Frontend"],
+    backend: ["Node", "Express", "NestJS"],
+    databases: ["MongoDB", "PostgreSQL"],
+  },
+  principles: ["SOLID", "Clean Code", "DRY", "KISS"],
+  learning: [
+    "Microservices",
+    "Event-Driven Architecture",
+    "MySQL"
+  ],
+  nextToLearn: ["Java", "Python"],
+  currentlyWorkingOn: "Mi próximo proyecto con NestJS + PostgreSQL 🚀",
+  funFact: "Debugging es el arte de ser el detective en una película donde vos sos también el asesino 🕵️"
 }
 ```
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martincho222&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/martincho111986/github-readme-stats)
