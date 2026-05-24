@@ -1,127 +1,96 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=160&section=header&text=Martin%20Jerez%20Leal&fontSize=48&fontColor=C9A84C&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=78&descSize=20&descColor=888888" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
 </div>
 
-<br/>
+<div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Clean+Code.+Solid+Principles.+Real+Solutions.;Building+from+Tucum%C3%A1n+to+the+world+%F0%9F%8C%8E;Open+to+new+opportunities." />
-</div>
-
----
-
-<div align="center">
-
-```
-  ────────────────────────────────────────
-        M A R T I N   J E R E Z   L E A L
-        Full Stack Developer  ·  Argentina
-  ────────────────────────────────────────
-```
-
-</div>
-
----
-
-## ◈ Perfil
-
-```yaml
-name:       Martin Jerez Leal
-location:   Tucumán, Argentina 🇦🇷
-role:       Full Stack Developer
-pronouns:   he / him
-email:      martincho111986@gmail.com
-open_to:    New opportunities
+```javascript
+const Martin = {
+  pronouns: ["he", "him"],
+  location: "🇦🇷 Tucumán, Argentina",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: {
+    frontend: ["React", "Redux", "Context API", "NextJS", "Micro Frontend"],
+    backend: ["Node", "Express", "NestJS"],
+    databases: ["MongoDB", "PostgreSQL"],
+  },
+  principles: ["SOLID", "Clean Code", "DRY", "KISS"],
+  learning: ["Microservices", "Event-Driven Architecture", "StoryBook", "Gatsby"],
+  nextToLearn: ["MySQL", "Python"],
+  currentlyWorkingOn: "NestJS + PostgreSQL 🚀",
+  openToWork: true,
+  funFact: "Debugging es el arte de ser el detective en una película donde vos sos también el asesino 🕵️"
+}
 ```
 
----
-
-## ◈ Stack Técnico
-
-**Lenguajes**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-C9A84C?style=flat-square&logo=javascript&logoColor=0a0a0a)
-![TypeScript](https://img.shields.io/badge/TypeScript-C9A84C?style=flat-square&logo=typescript&logoColor=0a0a0a)
-![HTML5](https://img.shields.io/badge/HTML5-C9A84C?style=flat-square&logo=html5&logoColor=0a0a0a)
-![CSS3](https://img.shields.io/badge/CSS3-C9A84C?style=flat-square&logo=css3&logoColor=0a0a0a)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-888888?style=flat-square&logo=react&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/Redux-888888?style=flat-square&logo=redux&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-888888?style=flat-square&logo=next.js&logoColor=ffffff)
-![Micro Frontend](https://img.shields.io/badge/Micro_Frontend-888888?style=flat-square&logoColor=ffffff)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-888888?style=flat-square&logo=node.js&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-888888?style=flat-square&logo=express&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/NestJS-888888?style=flat-square&logo=nestjs&logoColor=ffffff)
-
-**Bases de datos**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-888888?style=flat-square&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-888888?style=flat-square&logo=postgresql&logoColor=ffffff)
-
----
-
-## ◈ Principios
-
-> *"El código limpio hace una cosa, y la hace bien."*
-
-| Principio | Aplicación |
-|-----------|------------|
-| **S**ingle Responsibility | Cada módulo, una responsabilidad |
-| **O**pen/Closed | Abierto a extensión, cerrado a modificación |
-| **L**iskov Substitution | Las implementaciones respetan sus contratos |
-| **I**nterface Segregation | Interfaces específicas, no generales |
-| **D**ependency Inversion | Depender de abstracciones, no de concreciones |
-| **Clean Code** | Código que se lee como prosa |
-| **DRY · KISS** | Sin repetición, sin complejidad innecesaria |
-
----
-
-## ◈ En progreso
-
-```
-  [ ████████░░ ]  Microservices            — arquitecturas desacopladas
-  [ ██████░░░░ ]  Event-Driven Architecture — comunicación asíncrona
-  [ ████░░░░░░ ]  StoryBook                — documentación de componentes
-  [ ███░░░░░░░ ]  Gatsby                   — generación de sitios estáticos
-```
-
----
-
-## ◈ GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=martincho222&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=C9A84C&icon_color=C9A84C&text_color=888888&bg_color=0d0d0d&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincho222&layout=compact&theme=github_dark&hide_border=true&title_color=C9A84C&text_color=888888&bg_color=0d0d0d&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martincho222&theme=github-dark-blue&hide_border=true&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" />
 </div>
 
 ---
 
-## ◈ Contacto
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-333333?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-333333?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=martincho222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martincho222&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martincho222&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- 🏗️ **Microservices** — arquitecturas escalables y desacopladas
+- ⚡ **Event-Driven Architecture** — comunicación asíncrona entre servicios
+- 📖 **StoryBook** — documentación de componentes
+- 🚀 **Gatsby** — generación de sitios estáticos
+
+---
+
+## 📬 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A84C?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/martin-jerez-leal/)
-[![Gmail](https://img.shields.io/badge/Gmail-C9A84C?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:martincho111986@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-C9A84C?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/martincho222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-jerez-leal/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martincho111986@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martincho222)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>◈ &nbsp; Tucumán, Argentina &nbsp; · &nbsp; Full Stack Developer &nbsp; · &nbsp; Open to work &nbsp; ◈</sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0a0a0a&height=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
 </div>
